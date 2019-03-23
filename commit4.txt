@@ -1,5 +1,9 @@
 commit4 nè
 asdadasd
 asdasdasd
+<<<<<<< HEAD
 asdasdasdasd
 adasdsasdasda
+=======
+asdasdasdasd
+>>>>>>> demo-lab4
